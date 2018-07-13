@@ -31,7 +31,7 @@ $lang['invoice_status_not_paid_completely'] = 'Parcialmente Pago';
 $lang['invoice_pdf_heading'] = 'FATURAS';
 
 $lang['invoice_table_item_heading']            = 'Item';
-$lang['invoice_table_quantity_heading']        = 'Qtdd';
+$lang['invoice_table_quantity_heading']        = 'Qtd';
 $lang['invoice_table_rate_heading']            = 'Tarifa';
 $lang['invoice_table_tax_heading']             = 'Taxa';
 $lang['invoice_table_amount_heading']          = 'Quantia';
